@@ -26,16 +26,18 @@ A decade of writing production software — ERP systems, an insurance platform, 
 
 ## 🚀 What I'm building
 
-### 🤖 [Policy Chatbot](https://milindmishra.xyz) &nbsp;·&nbsp; `AI`
+<sub>These are internal tools, so the code is private — each one has a short demo video instead.</sub>
+
+### 🤖 Policy Chatbot &nbsp;·&nbsp; `AI` &nbsp;·&nbsp; [▶ demo](https://milindmishra.xyz/assets/demos/policy-chatbot.mp4)
 LLM-powered Q&A over the company's real policy docs. Employees ask in plain English instead of digging through PDFs. `Python` · `LLM Integration` · `Prompt Engineering`
 
-### 📋 [Employee Portal](https://milindmishra.xyz) &nbsp;·&nbsp; `Internal Tools`
+### 📋 Employee Portal &nbsp;·&nbsp; `Internal Tools` &nbsp;·&nbsp; [▶ demo](https://milindmishra.xyz/assets/demos/employee-portal.mp4)
 Attendance, reimbursements, and leave with a real two-step approval flow — built end-to-end in Python via an AI agent-driven dev workflow. `Python` · `SQL Server` · `Approval Workflows`
 
-### 📈 [Project Tracking System](https://milindmishra.xyz) &nbsp;·&nbsp; `Internal Tools`
+### 📈 Project Tracking System &nbsp;·&nbsp; `Internal Tools` &nbsp;·&nbsp; [▶ demo](https://milindmishra.xyz/assets/demos/project-tracking.mp4)
 A tracker shaped around how the team actually works, instead of bending workflows to fit off-the-shelf software. `Python` · `SQL Server`
 
-### 📊 [Charging Data Dashboard](https://milindmishra.xyz) &nbsp;·&nbsp; `Data`
+### 📊 Charging Data Dashboard &nbsp;·&nbsp; `Data` &nbsp;·&nbsp; [▶ demo](https://milindmishra.xyz/assets/demos/charging-dashboard-full.mp4)
 Real-time charging test-case analytics — self-service visibility instead of waiting on manual reports. `Python` · `Crystal Reports` · `Data Viz`
 
 ---
@@ -53,24 +55,12 @@ Real-time charging test-case analytics — self-service visibility instead of wa
 
 ---
 
-## 📊 GitHub in numbers
-
-<div align="center">
-
-![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=milindmishra24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milindmishra24&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=milindmishra24&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Let's connect
 
 <div align="left">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-milindmishra.xyz-36BCF7?style=for-the-badge&logo=astro&logoColor=white)](https://milindmishra.xyz)
+[![CV](https://img.shields.io/badge/Résumé-PDF-6C5CE7?style=for-the-badge&logo=readdotcv&logoColor=white)](https://milindmishra.xyz/assets/cv/Milind-Mishra-CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmilindmishra24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milindmishra24)
 [![Email](https://img.shields.io/badge/Email-milind.mishra24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milind.mishra24@gmail.com)
 
@@ -79,5 +69,5 @@ Real-time charging test-case analytics — self-service visibility instead of wa
 ---
 
 <div align="center">
-<sub>🏅 Star Performer — Motherson Group &nbsp;·&nbsp; 🎓 AI & ML Certificate — IIT Kanpur &nbsp;·&nbsp; ☁️ Azure Fundamentals (AZ-900)</sub>
+<sub>🏅 Star Performer — Motherson Group &nbsp;·&nbsp; 🎓 <a href="https://milindmishra.xyz/assets/certificates/iit-kanpur-ai-ml.pdf">AI & ML Certificate — IIT Kanpur</a> &nbsp;·&nbsp; ☁️ <a href="https://milindmishra.xyz/assets/certificates/azure-fundamentals-az900.pdf">Azure Fundamentals (AZ-900)</a></sub>
 </div>
